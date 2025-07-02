@@ -1,0 +1,5 @@
+{"timestamp":"2025-07-02T20:08:18.720073","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-02T20:08:48.828010","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-02T20:09:18.988872","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-02T20:09:49.148940","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-02T20:10:19.392244","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py","logger":"airflow.models.dagbag.DagBag"}
