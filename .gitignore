@@ -1,5 +1,4 @@
-"logs*." 
+"logs/" 
 ".env" 
 "__pycache__/" 
-"*.pyc" 
-"logs"
+"*.pyc"
